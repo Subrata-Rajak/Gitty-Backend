@@ -1,0 +1,1 @@
+module.exports.jsonApiPlaceHolderBaseUrl = "https://jsonplaceholder.typicode.com/";
