@@ -1,6 +1,6 @@
-# Project Title
+# Gitty Backend
 
-A brief description of your Node.js backend project.
+This is the backend written in nodjs for the app Gitty.
 
 ## Table of Contents
 
