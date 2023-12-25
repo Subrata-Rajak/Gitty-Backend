@@ -1,6 +1,6 @@
 # Gitty Backend
 
-This is the backend written in nodjs for the app Gitty.
+This is the backend written in nodejs for the app Gitty.
 
 ## Table of Contents
 
